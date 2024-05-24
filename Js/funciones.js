@@ -28,7 +28,7 @@ function llamarPokemon(pokemonElegido){
         elegirPokemon.appendChild(snorlax);
         primerosAtaques.appendChild(botonGolpeCuerpo);
         primerosAtaques.appendChild(botonCabezazo);
-        segundosAtaques.appendChild(botonDescanso);
+        segundosAtaques.appendChild(botonGolpeCuerpo);
         segundosAtaques.appendChild(botonPisoton);
         Toastify({
             text: "Has elegido a Snorlax",
